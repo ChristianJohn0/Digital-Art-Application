@@ -1,5 +1,5 @@
 # Digital-Art-Application
- 
+
 ## Features 
 ### Dash line
 The dash line is just a simple dash line with dash length = 20 and dash offset = 20. The dash line mode is an added kivy line property.
